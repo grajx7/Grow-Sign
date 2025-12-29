@@ -85,6 +85,10 @@
         </span>
       </a>
     </div>
+    <div
+      v-if="attribution"
+      class="text-center mt-4"
+    >
     </div>
   </div>
 </template>
